@@ -218,6 +218,14 @@ aside#lateral h1 {
 	color: #606060;	
 	margin-top: 0px;
 }
+video#filme2 {
+	display: block;
+	position: relative;
+	left: 0px;
+	top: -15px;
+	width: 350px;
+	height:250px;
+}
 aside#lateral h2 {
 	background-color: #606060;
 	font-size: 13pt;
